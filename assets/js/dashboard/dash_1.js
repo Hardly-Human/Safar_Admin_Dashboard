@@ -316,7 +316,7 @@ try {
           width: 2,
       },
       series: [{
-        name: 'Sales',
+        name: 'Requests',
         data: [38, 60, 38, 52, 36, 40, 28 ]
       }],
       labels: ['1', '2', '3', '4', '5', '6', '7'],
@@ -358,7 +358,7 @@ try {
           width: 2,
       },
       series: [{
-        name: 'Sales',
+        name: 'Rejected',
         data: [ 60, 28, 52, 38, 40, 36, 38]
       }],
       labels: ['1', '2', '3', '4', '5', '6', '7'],
@@ -403,7 +403,7 @@ try {
         opacity: 1,
       },
       series: [{
-        name: 'Sales',
+        name: 'Approved',
         data: [28, 50, 36, 60, 38, 52, 38 ]
       }],
       labels: ['1', '2', '3', '4', '5', '6', '7'],
